@@ -1,0 +1,27 @@
+{
+  "name": "rest-api-basic-with-nodejs",
+  "version": "1.0.0",
+  "description": "Making a REST-API for the first time, learning how it works and everything related to a REST-API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V11Playko/REST-API-basic-with-NodeJS.git"
+  },
+  "keywords": [
+    "REST-API",
+    "NodeJS"
+  ],
+  "author": "Heinner Vega <heinnervega20@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/V11Playko/REST-API-basic-with-NodeJS/issues"
+  },
+  "homepage": "https://github.com/V11Playko/REST-API-basic-with-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  }
+}
