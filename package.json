@@ -4,7 +4,7 @@
   "description": "Making a REST-API for the first time, learning how it works and everything related to a REST-API",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/app.js"
   },
   "repository": {
     "type": "git",
