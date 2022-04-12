@@ -2,7 +2,7 @@
   "name": "rest-api-basic-with-nodejs",
   "version": "1.0.0",
   "description": "Making a REST-API for the first time, learning how it works and everything related to a REST-API",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,5 +23,8 @@
   "dependencies": {
     "express": "^4.17.3",
     "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
